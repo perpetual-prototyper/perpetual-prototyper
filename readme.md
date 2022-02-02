@@ -7,11 +7,11 @@ Countless times I have geared up, buckled down, and started on a fantastic journ
 It usually goes really well for a time, but once I complete the core mechanics I tend to lose interest, 
 put it aside, and wait for inspiration for a new opus to strike. The cycle continues.
 
-Enter The Perpetual Prototyper. I've decided to embrace my non-commitment to finishing personal game 
+Hence my new nom de plume, The Perpetual Prototyper. I've decided to embrace my non-commitment to finishing personal game 
 projects and start a Youtube channel and these code repositories. 
 
 I make videos of myself figuring out how to replicate game mechanics, experiment with game engine features, play with fun ideas,
-and just messing around with artwork and code. This is where all of the experiments live for others to play with and learn from ... or more likely, 
+and just mess around with artwork and code. This is where all of the experiments live for others to play with and learn from ... or more likely, 
 learn from my mistakes. Nothing here is meant to be a complete project, a best practice, or even a good idea.. it's all meant to be used by you to play with and expand upon.
 
 These are experiments, and you're free to use them however you see fit for the most part.
