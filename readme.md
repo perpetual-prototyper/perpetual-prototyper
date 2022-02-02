@@ -21,7 +21,7 @@ The license in each project might differ and you should be cool and follow those
 - You should not redistribute this stuff as if it is your own creation. I.E.:
    - Reposting the code or assets somewhere and saying "Look at this thing I made!" is not cool.
    - Using it as a launching point or as a piece of something larger you're building and giving me a little shout out for the lift (optional, but appreciated) is using it as intended :)
-- If you re-use any of the artwork, sounds, or other assets that I've created myself please give me a credit in your project. Feel free to modify them till your heart's content, and if it's changed so much it's no longer is identifiable as the thing I made, then I suppose nobody would notice. Also, let me know where I can find your project, I'd love to see it!
+- If you re-use any of the artwork, sounds, or other assets that I've created myself please give me a credit in your project. Feel free to modify them till your heart's content, and if it's changed so much it's no longer identifiable as the thing I made, then I suppose nobody would notice. Also, let me know where I can find your project, I'd love to see it!
 - If you re-use any assets that are not of my creation (sources are listed in the readme of each project), then it's up to you to be sure you're compliant with the original creator's license.
 - Don't sell my crappy art as NFT's. If I haven't figured out how to make money on that stuff I sure as heckfire don't want to see my stuff out there selling for redonculous bit dollars!
 
