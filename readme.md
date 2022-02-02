@@ -8,7 +8,7 @@ It usually goes really well for a time, but once I complete the core mechanics a
 set it aside, and await the inspiration for a new opus to strike. The cycle continues.
 
 Hence my new nom de plume, "The Perpetual Prototyper". I've decided to embrace my non-commitment to finishing personal game 
-projects and start a Youtube channel and these code repositories to celebrate the joy of prototyping.
+projects and start a Youtube channel and these code repositories to celebrate the joy of perpetual prototyping.
 
 I make videos of myself figuring out how to replicate game mechanics, experiment with game engine features, play with fun ideas,
 and just mess around with artwork and code. This is where all of the experiments live for others to play with and learn from ... or more likely, 
