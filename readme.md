@@ -4,8 +4,8 @@ I love to make games! ... or rather, if I'm being honest, I love the idea of mak
 
 I have been toying with game development since I got my first real computer back in the 90's. 
 Countless times I have geared up, buckled down, and started on a fantastic journey to create my opus. 
-It usually goes really well for a time, but once I complete the core mechanics or get the idea I was obsessed with out of my head I tend to lose interest, 
-set it aside, and wait for inspiration for a new opus to strike. The cycle continues.
+It usually goes really well for a time, but once I complete the core mechanics and get the idea I was obsessed with out of my head I tend to lose interest, 
+set it aside, and await the inspiration for a new opus to strike. The cycle continues.
 
 Hence my new nom de plume, "The Perpetual Prototyper". I've decided to embrace my non-commitment to finishing personal game 
 projects and start a Youtube channel and these code repositories to celebrate the joy of prototyping.
