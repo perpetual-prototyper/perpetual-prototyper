@@ -16,9 +16,11 @@ learn from my mistakes. Nothing here is meant to be a complete project, a best p
 
 These are experiments, and you're free to use them however you see fit.
 The license in each project overules everything, but generally the only exceptions are:
-- You should not redisrtibute them wholesale as if they are your creation. (I.E.: reposting somewhere saying "Look at this thing I made!")
-- If you re-use any of the artwork, sounds, or other assets that I've created myself give me a credit in your project. Either that modify them enough that you can say they're yours. Also, let me know, I'd love to see it!
-- If you re-use any assets that are not of my creation (sources are listed in the readme of each project), then it's up to you to be sure you're compliant with the creator's license.
+- You should not redistribute them as if they are your creation. I.E.:
+   - Reposting this code somewhere and saying "Look at this thing I made!" == BAD
+   - Using it as a launching point or as a piece of something larger you're building and (optionally) giving me a little shout out for the lift == Using it as intended :)
+- If you re-use any of the artwork, sounds, or other assets that I've created myself pleasw give me a credit in your project. Either that modify them enough that you can say they're yours. Also, let me know, I'd love to see it!
+- If you re-use any assets that are not of my creation (sources are listed in the readme of each project), then it's up to you to be sure you're compliant with the original creator's license.
 
 ## Visit The Perpetual Prototyper on YouTube!
 [https://www.youtube.com/channel/UCyRqS9QBFx6KXYAWqWtMUwg](https://www.youtube.com/channel/UCyRqS9QBFx6KXYAWqWtMUwg)
