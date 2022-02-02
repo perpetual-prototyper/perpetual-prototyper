@@ -12,7 +12,7 @@ projects and start a Youtube channel and these code repositories.
 
 I make videos of myself figuring out how to replicate game mechanics, experiment with game engine features, play with fun ideas,
 and just mess around with artwork and code. This is where all of the experiments live for others to play with and learn from ... or more likely, 
-learn from my mistakes. Nothing here is meant to be a complete project, a best practice, or even a good idea.. it's all meant to be used by you to play with and expand upon.
+learn from my mistakes. Nothing here is meant to be a complete project, a best practice, or even a good idea.. it's all meant to be used by you completionists out there to play with, improve, and expand upon.
 
 These are experiments, and you're free to use them however you see fit for the most part.
 
