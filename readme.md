@@ -14,7 +14,7 @@ I make videos of myself figuring out how to replicate game mechanics, experiment
 and just mess around with artwork and code. This is where all of the experiments live for others to play with and learn from ... or more likely, 
 learn from my mistakes. Nothing here is meant to be a complete project, a best practice, or even a good idea.. it's all meant to be used by you completionists out there to play with, improve, and expand upon.
 
-These are experiments, and you're free to use them however you see fit for the most part.
+These are experiments, and for the most part you're free to use them however you see fit.
 
 The license in each project might differ and you should be cool and follow those, but the general rules are:
 
